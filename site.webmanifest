@@ -1,0 +1,14 @@
+{
+  "name": "대한민국 최초 가상자산 거래소",
+  "short_name": "코빗",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
+}

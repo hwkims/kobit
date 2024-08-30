@@ -1,0 +1,1 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[9451],{41705:function(e,t,_){_.r(t);var l=_(67294),n=_(3638),r=_(39559);t.default=function(){return l.createElement(l.Fragment,null,l.createElement(n.Z,{title:"차트"}),l.createElement(r.Z,null))}}}]);
